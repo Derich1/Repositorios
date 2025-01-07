@@ -1,4 +1,4 @@
-# GitHub Favorite Repos
+# Repositórios
 
 Esta aplicação permite salvar repositórios do GitHub como favoritos, visualizar detalhes como quem criou, descrição, e também filtrar issues com base no seu estado (Todas, Abertas, Fechadas).
 
@@ -15,45 +15,3 @@ Esta aplicação permite salvar repositórios do GitHub como favoritos, visualiz
 - React Router DOM
 - Styled Components
 - Axios para requisições HTTP
-
-## Como Rodar
-
-### Pré-requisitos
-
-Antes de rodar o projeto, certifique-se de ter o Node.js instalado na sua máquina. Caso não tenha, você pode baixá-lo [aqui](https://nodejs.org/).
-
-### Instalando
-
-1. Clone o repositório para sua máquina:
-
-    ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    ```
-
-2. Navegue até o diretório do projeto:
-
-    ```bash
-    cd nome-do-repositorio
-    ```
-
-3. Instale as dependências:
-
-    ```bash
-    npm install
-    ```
-
-4. Inicie o servidor de desenvolvimento:
-
-    ```bash
-    npm start
-    ```
-
-Agora, você pode acessar a aplicação no seu navegador em `http://localhost:3000`.
-
-## Contribuição
-
-Se você gostaria de contribuir para este projeto, sinta-se à vontade para abrir um pull request. Agradeço pela ajuda!
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
